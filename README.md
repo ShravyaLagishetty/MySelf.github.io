@@ -1,5 +1,5 @@
 Hi 👋, I’m @ShravyaLagishetty. 
- I am currently studying second year btech in CSE domain, in VIT,VELLORE.
+ I am currently studying btech in CSE domain, in VIT,VELLORE.
  I’m interested in learning new skills and improve my knowledge.
 
 <!---
